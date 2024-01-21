@@ -8,56 +8,51 @@ const userData = {
   address: "Madhapur, Hyderabad, India.",
   projects: [
     {
-      title: "Tailwind Master Kit",
+      title: "E-store",
       link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      imgUrl: "/e-store.png",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Restaurant-API",
+      link: "https://rapidapi.com/sathishshakthi006/api/restaurant-booking-management1/",
+      imgUrl: "/restaurant.png",
     },
     {
       title: "Portfolio",
-      link: "https://manuarora.in",
+      link: "https://sreekanthpogula.in",
       imgUrl: "/portfolio.png",
     },
     {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      title: "FERS",
+      link: "https://fers.com",
+      imgUrl: "https://user-images.githubusercontent.com/66261341/169702196-a8f91830-1345-467f-8c29-2eb92be09c05.png",
     },
     {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
+      title: "Eisenhower Matrix React App",
+      link: "https://EisenhowerMatrixReactApp.in",
+      imgUrl: "/eishen.png",
     },
     {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
+      title: "TimelyTemps",
+      link: "https://www.timelytemps.com/",
+      imgUrl: "/timelytemps.png",
     },
     {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
+      title: "transformail",
+      link: "https://transformail.app",
+      imgUrl: "/vercel.svg",
     },
   ],
   about: {
     title:
       "I'm a software developer that loves building products and web applications that impact millions of lives",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
+      `I've been developing full-stack application since I was 15 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `But now, I'm a legend. I've been coding in React, Vue, Python, Svelte, Node.js, Express, FastApi, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, Rust programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "CelebriJoy",
+    currentProjectUrl: "https://sreekanthvue.wixsite.com/celebrijoy",
   },
   experience: [
     {
@@ -97,7 +92,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://drive.google.com/file/d/10gSLGmQArhuMOIVwr9g4LuVDIUMp_E6-/view?usp=drivesdk",
   socialLinks: {
     instagram: "https://instagram.com/sreekanthpogula143",
     twitter: "https://twitter.com/sreekanthpogula",

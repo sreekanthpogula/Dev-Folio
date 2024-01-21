@@ -61,7 +61,6 @@ export default function AboutMe() {
                 and I'd love to work for you.
               </p>
             </div>
-            {/* Social Links */}
             <h1 className="text-xl font-semibold text-gray-700 mt-8 dark:text-gray-200">
               Social Links
             </h1>
