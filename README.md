@@ -1,4 +1,4 @@
-## Portfolio Website For Developers 💯
+## Personal Portfolio Website 💯
 
 # Features
 
@@ -14,23 +14,23 @@ I've kept the pages as simple as possible. Only the required sections are includ
 
 ## Landing
 
-![Hompage](https://github.com/sreekanthpogula700/simple-developer-portfolio-website/blob/main/demo-images/home.png)
+![Hompage](https://github.com/sreekanthpogula/Dev-Folio/blob/master/demo-images/home.png)
 
 ## About
 
-![Hompage](https://github.com/sreekanthpogula700/simple-developer-portfolio-website/blob/main/demo-images/about.png)
+![About](https://github.com/sreekanthpogula/Dev-Folio/blob/master/demo-images/about.png)
 
 ## Projects
 
-![Hompage](https://github.com/sreekanthpogula700/simple-developer-portfolio-website/blob/main/demo-images/projects.png)
+![Projects](https://github.com/sreekanthpogula/Dev-Folio/blob/master/demo-images/projects.png)
 
 ## Experience
 
-![Hompage](https://github.com/sreekanthpogula700/simple-developer-portfolio-website/blob/main/demo-images/experience.png)
+![Experience](https://github.com/sreekanthpogula/Dev-Folio/blob/master/demo-images/experience.png)
 
 ## Contact
 
-![Hompage](https://github.com/sreekanthpogula700/simple-developer-portfolio-website/blob/main/demo-images/contact.png)
+![Contact](https://github.com/sreekanthpogula/Dev-Folio/blob/master/demo-images/contact.png)
 
 # Tech Stack
 
@@ -62,4 +62,4 @@ This template is completely open source and free to use. Use it for client proje
 
 # Support
 
-<a href="https://www.buymeacoffee.com/sreekanthpogula" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/sreekanth143" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
