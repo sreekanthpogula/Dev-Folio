@@ -95,7 +95,7 @@ const userData = {
     "https://drive.google.com/file/d/10gSLGmQArhuMOIVwr9g4LuVDIUMp_E6-/view?usp=drivesdk",
   socialLinks: {
     instagram: "https://instagram.com/sreekanthpogula143",
-    twitter: "https://twitter.com/sreekanthpogula",
+    twitter: "https://twitter.com/PogulaSreekanth",
     linkedin: "https://linkedin.com/in/sreekanthpogula",
     github: "https://github.com/sreekanthpogula",
     facebook: "https://facebook.com/sreekanthpogula",
