@@ -9,7 +9,7 @@ const userData = {
   projects: [
     {
       title: "E-store",
-      link: "https://tailwindmasterkit.com",
+      link: "https://e-commerce-web-application-rk934uu84-sreekanthpogulas-projects.vercel.app/",
       imgUrl: "/e-store.png",
     },
     {
@@ -29,13 +29,18 @@ const userData = {
     },
     {
       title: "Eisenhower Matrix React App",
-      link: "https://EisenhowerMatrixReactApp.in",
+      link: "https://eisenhower-matrix-rose.vercel.app/",
       imgUrl: "/eishen.png",
     },
     {
       title: "TimelyTemps",
       link: "https://www.timelytemps.com/",
       imgUrl: "/timelytemps.png",
+    },
+    {
+      title: "Healthtrackr",
+      link: "https://healthtrackr-frontend.vercel.app/",
+      imgUrl: "/healthtrackr.png",
     },
     {
       title: "transformail",
