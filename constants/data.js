@@ -1,12 +1,17 @@
 const userData = {
   githubUsername: "sreekanthpogula",
   name: "Sreekanth Pogula",
-  designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
+  designation: "Data Engineer",
+  avatarUrl: "/avatar1.jpeg",
   email: "sreekanthpogula2001@gmail.com",
   phone: "+91 7995745089",
   address: "Madhapur, Hyderabad, India.",
   projects: [
+    {
+      title: "GreenStreet",
+      link: "https://www.greenstreet.com/",
+      imgUrl: "/gs.png",
+    },
     {
       title: "E-store",
       link: "https://e-commerce-web-application-rk934uu84-sreekanthpogulas-projects.vercel.app/",
@@ -60,6 +65,13 @@ const userData = {
     currentProjectUrl: "https://sreekanthvue.wixsite.com/celebrijoy",
   },
   experience: [
+    {
+      title: "Data Engineer",
+      company: "SenecaGlobal",
+      year: "2024",
+      companyLink: "https://sreekanthvue.wixsite.com/celebrijoy",
+      desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives.",
+    },
     {
       title: "Founder and Developer",
       company: "CelibriJoy",
