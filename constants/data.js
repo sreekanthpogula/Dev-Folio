@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "sreekanthpogula",
   name: "Sreekanth Pogula",
-  designation: "Data Engineer",
+  designation: "Senior Data Engineer",
   avatarUrl: "/avatar1.jpeg",
   email: "sreekanthpogula2001@gmail.com",
   phone: "+91 7995745089",
@@ -66,10 +66,17 @@ const userData = {
   },
   experience: [
     {
+      title: "Senior Data Engineer",
+      company: "SenecaGlobal",
+      year: "2025",
+      companyLink: "https://www.senecaglobal.com/",
+      desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives.",
+    },
+    {
       title: "Data Engineer",
       company: "SenecaGlobal",
       year: "2024",
-      companyLink: "https://sreekanthvue.wixsite.com/celebrijoy",
+      companyLink: "https://www.senecaglobal.com/",
       desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives.",
     },
     {
