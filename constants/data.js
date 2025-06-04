@@ -61,8 +61,8 @@ const userData = {
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
       `But now, I'm a legend. I've been coding in React, Vue, Python, Svelte, Node.js, Express, FastApi, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, Rust programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
     ],
-    currentProject: "CelebriJoy",
-    currentProjectUrl: "https://sreekanthvue.wixsite.com/celebrijoy",
+    currentProject: "ThalaOne",
+    currentProjectUrl: "https://github.com/sreekanthpogula/ThalaOne",
   },
   experience: [
     {
@@ -81,7 +81,7 @@ const userData = {
     },
     {
       title: "Founder and Developer",
-      company: "CelibriJoy",
+      company: "ThalaOne",
       year: "2023",
       companyLink: "https://sreekanthvue.wixsite.com/celebrijoy",
       desc: "Ignite Your Celebration Beyond Boundaries.",
@@ -111,7 +111,7 @@ const userData = {
       title: "High School",
       company: "Abhyudaya Patashala, Domakonda.",
       year: "2015",
-      companyLink: "https://upes.co.in",
+      companyLink: "https://stackschools.com/schools/36152100318/abhyudaya-patashala-domakonda",
       desc: "Subjects being PCM - I barely survived with 95% marks aggregate. Flex fridays, fellas.",
     },
   ],
