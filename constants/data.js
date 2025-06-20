@@ -116,7 +116,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/10gSLGmQArhuMOIVwr9g4LuVDIUMp_E6-/view?usp=drivesdk",
+    "https://docs.google.com/document/d/1AOl_Y6DP3FYtrlkA_DVq94jFqLni_pUs/edit?usp=drive_link&ouid=116159691204279411623&rtpof=true&sd=true",
   socialLinks: {
     instagram: "https://instagram.com/sreekanthpogula143",
     twitter: "https://twitter.com/PogulaSreekanth",
