@@ -47,7 +47,7 @@ const ExperienceCard = ({ title, desc, year, company, companyLink, overallExperi
       </h1>
       <h1 className="font-semibold text-xl">{title}</h1>
       <p className="font-bold text-sm text-gray-700 dark:text-gray-300">
-          Overall Experience: {overallExperience}
+          {overallExperience}
       </p>
       <a href={companyLink} className="text-gray-500">
         {company}
