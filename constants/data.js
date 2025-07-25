@@ -1,8 +1,11 @@
+import experience from "pages/experience";
+import resume from "pages/resume";
+
 const userData = {
   githubUsername: "sreekanthpogula",
   name: "Sreekanth Pogula",
-  designation: "Senior Data Engineer",
-  avatarUrl: "/avatar1.jpeg",
+  designation: "Senior Software Engineer",
+  avatarUrl: "/profile.jpeg",
   email: "sreekanthpogula2001@gmail.com",
   phone: "+91 7995745089",
   address: "Madhapur, Hyderabad, India.",
@@ -13,14 +16,34 @@ const userData = {
       imgUrl: "/gs.png",
     },
     {
-      title: "E-store",
-      link: "https://e-commerce-web-application-rk934uu84-sreekanthpogulas-projects.vercel.app/",
-      imgUrl: "/e-store.png",
+      title: "GemmaGroq-RAG-Engine",
+      link: "https://gemmagroq-rag-engine.streamlit.app/",
+      imgUrl: "/gemmagroq.png",
     },
     {
-      title: "Restaurant-API",
-      link: "https://rapidapi.com/sathishshakthi006/api/restaurant-booking-management1/",
-      imgUrl: "/restaurant.png",
+      title: "Eisenhower Matrix React App",
+      link: "https://eisenhower-matrix-rose.vercel.app/",
+      imgUrl: "/eishen.png",
+    },
+    {
+      title: "langchain-pinecone-hybrid-search",
+      link: "https://gemmagroq-rag-engine.streamlit.app/",
+      imgUrl: "/groqchatbot.png",
+    },
+    {
+      title: "Ragster",
+      link: "https://gemmagroq-rag-engine.streamlit.app/",
+      imgUrl: "/ragster.png",
+    },
+    {
+      title: "Complete LLM Fine Tuning",
+      link: "https://gemmagroq-rag-engine.streamlit.app/",
+      imgUrl: "/fine.png",
+    },
+    {
+      title: "End-to-End RAG",
+      link: "https://gemmagroq-rag-engine.streamlit.app/",
+      imgUrl: "/rag.png",
     },
     {
       title: "Portfolio",
@@ -28,14 +51,14 @@ const userData = {
       imgUrl: "/portfolio.png",
     },
     {
+      title: "Modern Ecommerce-Store",
+      link: "https://e-commerce-web-application-rk934uu84-sreekanthpogulas-projects.vercel.app/",
+      imgUrl: "/e-store.png",
+    },
+    {
       title: "FERS",
       link: "https://fers.com",
       imgUrl: "https://user-images.githubusercontent.com/66261341/169702196-a8f91830-1345-467f-8c29-2eb92be09c05.png",
-    },
-    {
-      title: "Eisenhower Matrix React App",
-      link: "https://eisenhower-matrix-rose.vercel.app/",
-      imgUrl: "/eishen.png",
     },
     {
       title: "TimelyTemps",
@@ -52,36 +75,43 @@ const userData = {
       link: "https://transformail.app",
       imgUrl: "/vercel.svg",
     },
+    {
+      title: "Deploy LLM with Langchain and FastAPI",
+      link: "https://github.com/sreekanthpogula/langchain-pinecone-hybrid-search",
+      imgUrl: "/groqchatwithlangchain.png",
+    },
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "I'm an AI/ML developer passionate about building intelligent systems and data-driven applications that solve real-world problems and impact millions of lives.",
     description: [
-      `I've been developing full-stack application since I was 15 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Vue, Python, Svelte, Node.js, Express, FastApi, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, Rust programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      "I started building web applications when I was 15, long before I knew what “full-stack” even meant. My journey started with HTML and CSS (and a lot of frustration), and quickly evolved with tools like Bootstrap that made me feel like a frontend superhero.",
+      "Today, I work across a diverse tech stack — from React and Python to FastAPI, Node.js, and even machine learning tools and languages like Rust and C++. I don’t claim to know every syntax by heart (thank you Stack Overflow), but I do know how to learn fast, solve real-world problems, and ship things that work.",
+      "Whether it's deploying ML models or building user interfaces, I bring both curiosity and caffeine to every project."
     ],
-    currentProject: "ThalaOne",
-    currentProjectUrl: "https://github.com/sreekanthpogula/ThalaOne",
+    currentProject: "Ragster",
+    currentProjectUrl: "https://github.com/sreekanthpogula/ragster",
   },
   experience: [
     {
       title: "Senior Data Engineer",
       company: "SenecaGlobal",
       year: "2025",
+      overallExperience: "3.2 Years",
       companyLink: "https://www.senecaglobal.com/",
-      desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives.",
+      desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives. With AI/ML expertise, I design and implement machine learning models to extract insights from complex datasets, driving data-driven decision-making processes.",
     },
     {
       title: "Data Engineer",
       company: "SenecaGlobal",
       year: "2024",
+      overallExperience: "2 Years",
       companyLink: "https://www.senecaglobal.com/",
-      desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives.",
+      desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives. With AI/ML expertise, I design and implement LLM models to extract insights from complex datasets, driving data-driven decision-making processes.",
     },
     {
       title: "Founder and Developer",
-      company: "ThalaOne",
+      company: "Celebrijoy",
       year: "2023",
       companyLink: "https://sreekanthvue.wixsite.com/celebrijoy",
       desc: "Ignite Your Celebration Beyond Boundaries.",
@@ -116,14 +146,17 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://docs.google.com/document/d/1AOl_Y6DP3FYtrlkA_DVq94jFqLni_pUs/edit?usp=drive_link&ouid=116159691204279411623&rtpof=true&sd=true",
+    "https://drive.google.com/file/d/1hHXr8CnVywM8bTA2fuSE2lyUIbALEIfx/preview",
+  resumePdfUrl:
+    "https://drive.google.com/file/d/1hHXr8CnVywM8bTA2fuSE2lyUIbALEIfx/edit",
   socialLinks: {
     instagram: "https://instagram.com/sreekanthpogula143",
-    twitter: "https://twitter.com/PogulaSreekanth",
+    twitter: "https://x.com/Spogula143",
     linkedin: "https://linkedin.com/in/sreekanthpogula",
     github: "https://github.com/sreekanthpogula",
     facebook: "https://facebook.com/sreekanthpogula",
     Leetcode: "https://Leetcode.io/sreekanthpogula",
+    Medium: "https://medium.com/@sreekanthpogula2001",
   },
 };
 

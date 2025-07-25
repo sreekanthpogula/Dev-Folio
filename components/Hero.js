@@ -4,7 +4,7 @@ import { RainbowHighlight } from "./RainbowHighlight";
 import userData from "@constants/data";
 
 export default function Hero() {
-  const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6", "#EDEADE"];
+  const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6", "#ebf20f"];
   return (
     <div className="flex flex-row justify-center items-start overflow-hidden">
       {/* Text container */}
@@ -46,7 +46,7 @@ export default function Hero() {
             <div className="flex flex-row space-x-4">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="16"
+                width="20"
                 height="16"
                 fill="currentColor"
                 className="bi bi-arrow-90deg-up"
