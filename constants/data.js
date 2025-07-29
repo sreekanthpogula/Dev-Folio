@@ -146,7 +146,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1hHXr8CnVywM8bTA2fuSE2lyUIbALEIfx/preview",
+    "https://drive.google.com/file/d/1wHl5tLD4gO1syhijUHFFhxxW2l0Upyza/preview",
   resumePdfUrl:
     "https://drive.google.com/file/d/1hHXr8CnVywM8bTA2fuSE2lyUIbALEIfx/edit",
   socialLinks: {
