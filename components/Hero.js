@@ -40,7 +40,7 @@ export default function Hero() {
       </div>
       {/* Image container */}
       <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 mt-20">
-        <div className="w-2/4 ">
+        <div className="w-full md:w-2/3 h-2/3">
           <img src={userData.avatarUrl} alt="avatar" className=" shadow" />
           <div className="flex flex-row justify-between mt-4">
             <div className="flex flex-row space-x-4">

@@ -4,8 +4,8 @@ import resume from "pages/resume";
 const userData = {
   githubUsername: "sreekanthpogula",
   name: "Sreekanth Pogula",
-  designation: "Senior Software Engineer",
-  avatarUrl: "/profile.jpeg",
+  designation: "Senior AI/ML Engineer",
+  avatarUrl: "/profile.png",
   email: "sreekanthpogula2001@gmail.com",
   phone: "+91 7995745089",
   address: "Madhapur, Hyderabad, India.",
@@ -94,10 +94,18 @@ const userData = {
   },
   experience: [
     {
+      title: "Senior AI/ML Engineer",
+      company: "REAL",
+      year: "2025",
+      overallExperience: "2 Months",
+      companyLink: "https://www.joinreal.com/",
+      desc: "As a AI/ML Engineer at REAL, I develop and maintain scalable Workflow automation pipelines, ensuring data integrity and accessibility to support sustainable urban real estate development initiatives. With AI/ML expertise, I design and implement machine learning models to extract insights from complex datasets, driving data-driven decision-making processes.",
+    },
+    {
       title: "Senior Data Engineer",
       company: "SenecaGlobal",
       year: "2025",
-      overallExperience: "3.2 Years",
+      overallExperience: "1.3 Years",
       companyLink: "https://www.senecaglobal.com/",
       desc: "As a Data Engineer at GreenStreet, I develop and maintain scalable data pipelines, ensuring data integrity and accessibility to support sustainable urban development initiatives. With AI/ML expertise, I design and implement machine learning models to extract insights from complex datasets, driving data-driven decision-making processes.",
     },

@@ -25,7 +25,6 @@ export const getServerSideProps = async () => {
   let token = process.env.GITHUB_AUTH_TOKEN;
 
   const repositories = await getLatestRepos(userData, token);
-  // console.log("REPOSITORIES", repositories);
 
   return {
     props: {
