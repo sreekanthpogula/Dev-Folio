@@ -165,6 +165,7 @@ const userData = {
     facebook: "https://facebook.com/sreekanthpogula",
     Leetcode: "https://Leetcode.io/sreekanthpogula",
     Medium: "https://medium.com/@sreekanthpogula2001",
+    Youtube: "https://www.youtube.com/@GenZCodes4u",
   },
 };
 
