@@ -79,6 +79,18 @@ export default function AboutMe() {
               </div>
               <div className="flex flex-row justify-start items-center ">
                 <a
+                  href={userData.socialLinks.Youtube}
+                  className="flex flex-row items-center space-x-4 group"
+                >
+                  <div className="my-4">&rarr;</div>
+                  <div className="text-lg text-gray-500 font-mono relative overflow-hidden dark:text-gray-300">
+                    <div className="absolute h-0.5 w-full bg-gray-400 bottom-0 transform -translate-x-24 group-hover:translate-x-0 transition duration-300"></div>
+                    Youtube
+                  </div>
+                </a>
+              </div>
+              <div className="flex flex-row justify-start items-center ">
+                <a
                   href={userData.socialLinks.facebook}
                   className="flex flex-row items-center space-x-4 group"
                 >
@@ -223,11 +235,6 @@ export default function AboutMe() {
               <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="HuggingFace" className="h-20 w-20 mx-4 my-4" />
               <img src="https://avatars.githubusercontent.com/u/137590548?s=200&v=4" alt="LangChain" className="h-20 w-20 mx-4 my-4" />
               <img
-                src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png"
-                alt="OpenAI"
-                className="h-20 w-20 mx-4 my-4"
-              />
-              <img
                   src="https://avatars.githubusercontent.com/u/573369?s=200&v=4"
                   alt="Astra DB"
                   className="h-20 w-20 mx-4 my-4"
@@ -246,7 +253,11 @@ export default function AboutMe() {
               <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" className="h-20 w-20 mx-4 my-4" />
               <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" className="h-20 w-20 mx-4 my-4" />
               <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" className="h-20 w-20 mx-4 my-4" />
-            </div>
+              {/* AI Tools and Platforms */}
+              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" className="h-20 w-20 mx-4 my-4" />
+              <img src="https://avatars.githubusercontent.com/u/163154025?s=200&v=4" alt="n8n" className="h-20 w-20 mx-4 my-4" />
+              <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" className="h-20 w-20 mx-4 my-4" />
+              </div>
           </div>
         </div>
       </div>
